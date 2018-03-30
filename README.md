@@ -10,4 +10,5 @@ Machine Learnign Principles and Implementation with Python
 
 **Concepts applied**
 1. Exploratory Data Analysis
+2. handling caregorical Variables with get_dummeis
 2. Grid Search
